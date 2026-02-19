@@ -1,0 +1,26 @@
+{
+  "DIVISION": [
+    "BrandA",
+    "BrandB",
+    "BrandC"
+  ],
+  "SEASON": [
+    "Spring2026",
+    "Summer2026"
+  ],
+  "COLLECTION": [
+    "Core",
+    "Editorial",
+    "Promo"
+  ],
+  "SHOT_TYPE": [
+    "Front",
+    "Detail",
+    "Lifestyle"
+  ],
+  "STATUS": [
+    "Planned",
+    "In Progress",
+    "Complete"
+  ]
+}
