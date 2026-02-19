@@ -55,3 +55,7 @@ This repository demonstrates:
 ## License
 
 MIT
+
+## Architecture (High Level)
+
+![Asset pipeline architecture](docs/architecture_diagram.png)
