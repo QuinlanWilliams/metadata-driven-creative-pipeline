@@ -15,6 +15,20 @@ The framework models how a creative production team can:
 No proprietary company information is included.
 
 ---
+## System Architecture
+
+<p align="center">
+  <img src="docs/architecture_diagram.png" width="800" />
+</p>
+
+The framework follows a metadata-first workflow:
+
+Story Planning  
+→ SKU Mapping  
+→ Metadata Generation  
+→ Lightroom Export  
+→ DAM Upload  
+→ Ecommerce
 
 ## System Overview
 
