@@ -30,6 +30,8 @@ Story Planning
 → DAM Upload  
 → Ecommerce
 
+📘 Full workflow breakdown → [Overview](docs/OVERVIEW.md)
+
 ## System Overview
 
 The framework is built around a metadata-first architecture:
