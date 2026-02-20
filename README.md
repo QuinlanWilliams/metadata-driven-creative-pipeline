@@ -30,6 +30,26 @@ Story Planning
 → DAM Upload  
 → Ecommerce
 
+
+## Core Principles
+
+- Metadata-first architecture
+- Schema governance
+- Version control discipline
+- Elimination of manual keyword entry
+- Production consistency at scale
+
+## Why It Matters
+
+Manual asset workflows introduce:
+- Naming inconsistencies
+- Metadata gaps
+- Search inefficiencies
+- Rework loops
+
+This system replaces ad-hoc production with structured automation.
+📘 See full workflow breakdown → [Workflow Overview](docs/OVERVIEW.md)
+
 📘 Full workflow breakdown → [Overview](docs/OVERVIEW.md)
 
 ## System Overview
@@ -67,6 +87,18 @@ This repository demonstrates:
 - Governance & version discipline
 
 ---
+## Case Study
+
+This repository is part of a broader creative infrastructure initiative focused on:
+
+- Reducing manual metadata entry
+- Improving DAM searchability
+- Standardizing production naming conventions
+- Introducing version-controlled workflow governance
+
+📎 Full case study available in portfolio:
+[View Detailed Case Study →](https://yourportfolio.com)
+
 
 ## License
 
